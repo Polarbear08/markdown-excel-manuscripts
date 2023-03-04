@@ -15,6 +15,10 @@
 		"donjayamanne.githistory",
 		"mhutchie.git-graph",
 		"eamodio.gitlens",
+		// Python関連
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"KevinRose.vsc-python-indent",
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [
